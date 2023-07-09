@@ -1,4 +1,4 @@
-data,temperatura,umidade,temperatura_minima,temperatura_maxima,umidade_minima,umidade_maxima,preciptacao_minima,preciptacao_maxima,preciptacao_acumulada,preciptacao,idade
+data,temperatura_media,umidade_media,temperatura_minima,temperatura_maxima,umidade_minima,umidade_maxima,preciptacao_minima,preciptacao_maxima,preciptacao_acumulada,preciptacao_media,idade
 Jan/21,28.607543586327825,48.74114981764879,23.0,39.0,26.0,73.0,0.3,12.6,38.69697820930245,4.29966424547805,30
 Fev/21,27.234794898277194,59.727078311288054,23.0,35.4,26.0,79.0,0.3,48.0,84.9988646493131,7.7271695135739185,30
 Mar/21,,,,,,,,,0.0,0.0,30
